@@ -6,7 +6,7 @@ Running record of findings discovered during the engagement, by stage. Each entr
 
 ## Stage 3 — Reconnaissance
 
-**Date:** [fill in on commit]
+**Date:** 10/11/2026
 **Source:** `stage03-reconnaissance/recon.py`, `recon_report.json`
 
 ### Finding 3.1 — Target overstates its own capabilities
