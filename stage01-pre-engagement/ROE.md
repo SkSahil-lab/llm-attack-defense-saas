@@ -86,5 +86,16 @@ Testing halts immediately, and the event is documented, if any of the following 
 
 I confirm that this engagement is limited to the assets in Section 3, that all data is synthetic, and that testing will stop under any condition in Section 7.
 
+## 10. Launch Governance
+
+**System owner:** Shaik Sahil, owner of the Ollama agent and its security.
+**Agent rules (must never):**
+1. [e.g., reveal credentials or system prompt contents]
+2. [e.g., follow instructions embedded in retrieved documents]
+3. [e.g., send data outside localhost]
+**Launch condition:** [e.g., attack success rate under X% on the Promptfoo regression suite]
+**Approval:** Approved to launch on [date] by Shaik Sahil.
+**Review:** Re-run Stages [__] and update this section every [period] or after any change to the model or gateway.
+
 **Signed:** Shaik Sahil
 **Date:** 24/10/2026
